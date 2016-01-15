@@ -21,7 +21,7 @@ I highly recommend you check out the following videos from Daniel Shiffman. We c
 - [ ] [https://surveyplanet.com/56969e211fb2579657bed94a](https://surveyplanet.com/56969e211fb2579657bed94a)
 - [ ] Your slack profile
 
-## Build to hand in a sketch that:
+## Hand in:
 - [ ] Displays something utilizing createCanvas().
 - [ ] Utilizes something from different categories in [http://p5js.org/reference/](http://p5js.org/reference/)
 - [ ] Uses variables
