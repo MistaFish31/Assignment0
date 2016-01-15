@@ -1,0 +1,5 @@
+nguage: node_js
+node_js:
+  - "0.12"
+notifications:
+  slack: artg2260st2016:E8sLIc4Og0HLNUp7SsDmLTgw

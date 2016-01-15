@@ -1,0 +1,11 @@
+me": "Syllabus",
+  "description": "Assignment0",
+  "author": "Francisco Dias",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.8.0"
+  },
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint script.js"
+  }
+}
