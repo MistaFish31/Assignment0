@@ -5,7 +5,7 @@
 - [ ] [Eloquent JavaScript chapter 1](http://eloquentjavascript.net/01_values.html)
 - [ ] [Eloquent JavaScript chapter 2](http://eloquentjavascript.net/02_program_structure.html) I do not expect you to have a mastery of loops (`for` and `while`) updating variables succinctly (iterators) or `alert`
 
-## Reccomended viewing
+## Recommended viewing
 I highly recommend you check out the following videos from Daniel Shiffman. We covered a lot and he takes an in depth look at what we did in context of p5.js
 - [ ] [What is p5.js](https://www.youtube.com/watch?v=8j0UDiN7my4&index=1&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 - [ ] [Basics of drawing in p5.js](https://www.youtube.com/watch?v=D1ELEeIs0j8&index=2&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
@@ -35,7 +35,7 @@ I highly recommend you check out the following videos from Daniel Shiffman. We c
 
 - Make an account on [education.github.com](http://www.education.github.com) using a `.edu` email address. The website says that they will get back to you in a few weeks, they get back to you in about an hour.
 - After you have set up your github account from the approved email download and install the [Github Desktop Client](https://desktop.github.com/)
-*In System Prefrences > Security & Privacy > General You may have to enable Allow apps downloaded from: Anywhere*
+*In System Preferences > Security & Privacy > General You may have to enable Allow apps downloaded from: Anywhere*
 <img width="780" alt="screenshot 2016-01-14 23 17 01" src="https://cloud.githubusercontent.com/assets/557952/12345299/f6a2477c-bb14-11e5-9de8-c894794e4b39.png">
 
 - Sign into the github desktop client.
@@ -59,7 +59,7 @@ I highly recommend you check out the following videos from Daniel Shiffman. We c
 
 ![step5makeacommit](https://cloud.githubusercontent.com/assets/557952/12345219/e3ad0d6a-bb13-11e5-9bd9-24b11fb66fc1.gif)
 
-- Make some more changes, save and commit again. Think of this like making check points.
+- Make some more changes, save and commit again. Think of this like making checkpoints.
 - Make the PR
 
 ![step5pr](https://cloud.githubusercontent.com/assets/557952/12345239/19cbfc76-bb14-11e5-8452-9629e53064cf.gif)
@@ -67,8 +67,10 @@ I highly recommend you check out the following videos from Daniel Shiffman. We c
 *Note to make sure you're comparing `ArtG2260SpringTuesday2016/Assignment0` master vs your branch.*
 
 - Check [Pull requests on this repo](https://github.com/ArtG2260SpringTuesday2016/Assignment0/pulls) to make sure your request is there.
-- Comment a screen shot of your rendering project and @mention @frandias
-- Check out your class mates' projects and provide some feedback.
+- Comment a screenshot of your rendering project and @mention @frandias
+- Check out your classmates' projects and provide some feedback.
 - Bonus points if you pull down their branch and are able to run it locally.
 
 *Feel free to make practice PRs to each other as well as experimenting with your own repositories.*
+
+
