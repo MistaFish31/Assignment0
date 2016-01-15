@@ -63,7 +63,8 @@ I highly recommend you check out the following videos from Daniel Shiffman. We c
 - Make the PR
 
 ![step5pr](https://cloud.githubusercontent.com/assets/557952/12345239/19cbfc76-bb14-11e5-8452-9629e53064cf.gif)
-Note to make sure you're comparing `ArtG2260SpringTuesday2016/Assignment0` master vs your branch.
+
+*Note to make sure you're comparing `ArtG2260SpringTuesday2016/Assignment0` master vs your branch.*
 
 - Check [Pull requests on this repo](https://github.com/ArtG2260SpringTuesday2016/Assignment0/pulls) to make sure your request is there.
 - Comment a screen shot of your rendering project and @mention @frandias
