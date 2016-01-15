@@ -1,5 +1,5 @@
 # Assignment0
-*Due Sunday, January 17, 2016*
+*Due as a pull request to this repo @mentioning @frandias by Sunday, January 17, 2016*
 
 ## Read the following
 - [ ] [Eloquent JavaScript chapter 1](http://eloquentjavascript.net/01_values.html)
@@ -17,7 +17,7 @@ I highly recommend you check out the following videos from Daniel Shiffman. We c
 
 
 ## Fill out 
-- [ ] your githubprofile
+- [ ] your GitHub profile
 - [ ] [https://surveyplanet.com/56969e211fb2579657bed94a](https://surveyplanet.com/56969e211fb2579657bed94a)
 - [ ] Your slack profile
 
@@ -30,7 +30,39 @@ I highly recommend you check out the following videos from Daniel Shiffman. We c
 - [ ] It's interactive in some way.
 - [ ] It uses conditionals
 
+# How to fork this repo and make a PR.
+1. Make an account on [education.github.com](http://www.education.github.com) using a `.edu` email address. The website says that they will get back to you in a few weeks, they get back to you in about an hour.
+2. After you have set up your github account from the approved email download the [Github Desktop Client](https://desktop.github.com/)
+3. Sign into the github desktop client.
+4. Fork [this repo](https://github.com/ArtG2260SpringTuesday2016/Assignment0)
+
+![step1fork](https://cloud.githubusercontent.com/assets/557952/12345196/849026a0-bb13-11e5-9f2a-368677e2b9f9.gif)
+5. Clone this repo
+
+![step2clone](https://cloud.githubusercontent.com/assets/557952/12345207/acba9c78-bb13-11e5-8a6b-a08c3fe764b0.gif)
+
+6. Locate your project in finder
+
+![step3locateinfinder](https://cloud.githubusercontent.com/assets/557952/12345211/c3f72de8-bb13-11e5-8812-7c6d2dd63a6d.gif)
+
+7. Open in p5
+
+![step4openinp5](https://cloud.githubusercontent.com/assets/557952/12345225/fedd2610-bb13-11e5-89fe-30abed80e20b.gif)
 
 
+8. Make a commit.
 
-Feel free to make practice PRs to each other as well as experimenting with your own repositories.
+![step5makeacommit](https://cloud.githubusercontent.com/assets/557952/12345219/e3ad0d6a-bb13-11e5-9bd9-24b11fb66fc1.gif)
+
+9. Make some more changes, save and commit again. Think of this like making check points.
+10. Make the PR
+
+![step5pr](https://cloud.githubusercontent.com/assets/557952/12345239/19cbfc76-bb14-11e5-8452-9629e53064cf.gif)
+Note to make sure you're comparing `ArtG2260SpringTuesday2016/Assignment0` master vs your branch.
+
+11. Check [Pull requests on this repo](https://github.com/ArtG2260SpringTuesday2016/Assignment0/pulls) to make sure your request is there.
+12. Comment a screen shot of your rendering project and @mention @frandias
+13. Check out your class mates' projects and provide some feedback.
+14. Bonus points if you pull down their branch and are able to run it locally.
+
+*Feel free to make practice PRs to each other as well as experimenting with your own repositories.*
