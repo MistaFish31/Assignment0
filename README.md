@@ -55,7 +55,7 @@ I highly recommend you check out the following videos from Daniel Shiffman. We c
 ![step4openinp5](https://cloud.githubusercontent.com/assets/557952/12345225/fedd2610-bb13-11e5-89fe-30abed80e20b.gif)
 
 
-- Make a commit.
+- Make some changes, save then commit in GitHub Desktop.
 
 ![step5makeacommit](https://cloud.githubusercontent.com/assets/557952/12345219/e3ad0d6a-bb13-11e5-9bd9-24b11fb66fc1.gif)
 
