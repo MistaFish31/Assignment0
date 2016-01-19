@@ -71,5 +71,19 @@ function draw() {
   arc(255,390,80,60,1.4,3.1)
   arc(315,390,80,60,-.2,1.7)
   
+//confetti
+  stroke(255,200,250)
+  line(confettiX,confettiY,confettiX+15,confettiY+12)
+  line(confettiX+120,confettiY-30,confettiX+135,confettiY-18)
+  line(confettiX+70,confettiY+90,confettiX+55,confettiY+102)
+  line(confettiX+350,confettiY-20,confettiX+365,confettiY-8)
+  line(confettiX+300,confettiY+150,confettiX+315,confettiY+162)
+  line(confettiX+500,confettiY+100,confettiX+515,confettiY+112)
+  line(confettiX+600,confettiY+30,confettiX+585,confettiY+42)
+  confettiY=confettiY+2
+  
+  if(confettiY>700){
+    confettiY=0
+  }
 
 }
