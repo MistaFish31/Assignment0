@@ -80,10 +80,8 @@ function draw() {
   line(confettiX+300,confettiY+150,confettiX+315,confettiY+162)
   line(confettiX+500,confettiY+100,confettiX+515,confettiY+112)
   line(confettiX+600,confettiY+30,confettiX+585,confettiY+42)
-  confettiY=confettiY+2
   
-  if(confettiY>700){
-    confettiY=0
-  }
+  confettiY = (confettiY + 2) % 700
+  
 
 }
